@@ -124,7 +124,7 @@ The newest API these components depend on is the [FileReader API](https://canius
 Run:
 
 ```bash
-npm install vue-qrcode-reader
+npm install git+ssh://github.com:paypaypay666/vue-qrcode-reader.git
 ```
 
 Either import the components independantly for local registration:
